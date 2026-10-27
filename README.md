@@ -6,14 +6,12 @@
 </head>
 <body style="margin:0;font-family:Arial;background:#edf2f8;box-sizing:border-box;">
 <div>My Profile Page</div>
-<div style="display:flex;justify-content:center;align-items:center;padding:40px 10px;">
-<h2 style="font-size:22px;margin-bottom:8px;">Anshu Patel</h2>
+<h2 >Anshu Patel</h2>
 <p>B.Tech in Artificial Intelligence</p>
 <p>Invertis University</p>
 <p style="font-size:14px;">Beginner Web Developer</p>
-<div style="height:100px;overflow:auto;border:1px solid #ddd;padding:8px;text-align:left;font-size:13px;">
-Hello! My name is Anshu Patel. I am pursuing B.Tech in Artificial Intelligence at Invertis University. I am learning HTML, CSS and Java programming. I want to improve my coding skills and build useful websites. My goal is to become a good developer.
-</div>
+<p>Hello! My name is Anshu Patel. I am pursuing B.Tech in Artificial Intelligence at Invertis University. I am learning HTML, CSS and Java programming. I want to improve my coding skills and build useful websites. My goal is to become a good developer</p>
+
 </div>
 </div>
 <h3 style="color:red;">My Skills</h3>
